@@ -29,10 +29,9 @@ python src/server.py
 
 # Client build (Windows)
 cd client/
-
-
+make
 
 ```
 
-[![Security Policy](https://img.shields.io/badge/Security-Policy-brightgreen)](SECURITY.md)
-make
+[![Security Policy](https://img.shields.io/badge/Security-Policy-brightgreen)](docs/SECURITY.md)
+
