@@ -1,26 +1,32 @@
 # Advanced Keylogger System
 
-![Project Logo]([https://via.placeholder.com/150](https://github.com/Chundyy/advanced-keylogger/blob/main/logo.png?raw=true)) 
+<p align="center">
+  <img src="https://github.com/Chundyy/advanced-keylogger/blob/main/logo.png?raw=true" alt="Advanced Keylogger Logo" width="200">
+</p>
 
-A professional educational tool for cybersecurity research demonstrating advanced keylogging techniques.
+![GitHub license](https://img.shields.io/github/license/Chundyy/advanced-keylogger)
+![GitHub stars](https://img.shields.io/github/stars/Chundyy/advanced-keylogger)
+![GitHub issues](https://img.shields.io/github/issues/Chundyy/advanced-keylogger)
+
+A professional cybersecurity research tool demonstrating advanced keylogging techniques with encrypted communications.
 
 ## Features
-- ✨ Cross-platform compatible
-- 🔒 Secure encrypted communications
-- 📁 Local log storage with rotation
-- 🌐 Remote monitoring capabilities
-- 🛡️ Anti-detection mechanisms
+- 🔒 **Secure Communications**: AES-256 encrypted logs
+- 📊 **Dual Logging**: Local and remote logging
+- 🛡️ **Anti-Forensics**: Built-in evasion techniques
+- 📦 **Modular Design**: Easy to extend and modify
 
-## Warning
-⚠️ This project is for **educational purposes only**. Use only in controlled environments with explicit permission.
+## Ethical Notice
+> ⚠️ **Warning**: This project is for **educational purposes only**.  
+> Use only in controlled environments with explicit written permission.
 
 ## Quick Start
 ```bash
-# Server
+# Server setup
 cd server/
 pip install -r requirements.txt
 python src/server.py
 
-# Client
+# Client build (Windows)
 cd client/
-make build
+make
