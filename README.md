@@ -4,7 +4,7 @@
   <img src="https://github.com/Chundyy/advanced-keylogger/blob/main/logo.png?raw=true" alt="Advanced Keylogger Logo" width="200">
 </p>
 
-![GitHub license](https://img.shields.io/github/license/Chundyy/advanced-keylogger)
+[![License: Ethical](https://img.shields.io/badge/License-Educational_Use_Only-red)](LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/Chundyy/advanced-keylogger)
 ![GitHub issues](https://img.shields.io/github/issues/Chundyy/advanced-keylogger)
 
