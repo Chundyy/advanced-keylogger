@@ -29,4 +29,8 @@ python src/server.py
 
 # Client build (Windows)
 cd client/
+
+
+
+[![Security Policy](https://img.shields.io/badge/Security-Policy-brightgreen)](SECURITY.md)
 make
