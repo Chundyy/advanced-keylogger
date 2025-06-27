@@ -5,8 +5,6 @@
 </p>
 
 [![License: Ethical](https://img.shields.io/badge/License-Educational_Use_Only-red)](LICENSE)
-![GitHub stars](https://img.shields.io/github/stars/Chundyy/advanced-keylogger)
-![GitHub issues](https://img.shields.io/github/issues/Chundyy/advanced-keylogger)
 
 A professional cybersecurity research tool demonstrating advanced keylogging techniques with encrypted communications.
 
