@@ -11,7 +11,7 @@
 ### Vulnerability Reporting
 Found a security issue? Please report responsibly:
 1. **Do not test on unauthorized systems**
-2. Email: `security@yourdomain.com` (replace with your contact)
+2. Email: `goncaloleitaochy@gmail.com` 
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce
