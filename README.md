@@ -4,7 +4,7 @@
   <img src="https://github.com/Chundyy/advanced-keylogger/blob/main/logo.png?raw=true" alt="Advanced Keylogger Logo" width="200">
 </p>
 
-[![License: Ethical](https://img.shields.io/badge/License-Educational_Use_Only-red)](LICENSE)
+[![License: Ethical](https://img.shields.io/badge/License-Educational_Use_Only-red)](LICENSE.md)
 
 A professional cybersecurity research tool demonstrating advanced keylogging techniques with encrypted communications.
 
